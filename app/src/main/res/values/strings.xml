@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Shake</string>
+
+    <!-- General -->
+    <string name="apply">Apply</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+
+    <!-- Discover -->
+    <string name="discover">Discover</string>
+    <string name="cocktail_search">Search</string>
+    <string name="cocktail_search_placeholder">Search by name</string>
+    <string name="cocktail_filter_category">Category</string>
+    <string name="cocktail_filter_ingredient">Ingredient</string>
+    <string name="cocktail_filter_alcohol">Alcohol</string>
+    <string name="cocktail_filter_glass">Glass</string>
+    <string name="cocktail_filter_category_value">Category: %1$s</string>
+    <string name="cocktail_filter_ingredient_value">Ingredient: %1$s</string>
+    <string name="cocktail_filter_alcohol_value">Alcohol: %1$s</string>
+    <string name="cocktail_filter_glass_value">Glass: %1$s</string>
+    <string name="cocktail_filter_clear">Clear Filter</string>
+    <string name="cocktail_pattern_any">Any</string>
+
+    <!-- Details -->
+    <string name="cocktail_bookmark">Bookmark Cocktail</string>
+    <string name="cocktail_ingredients">Ingredients</string>
+    <string name="cocktail_ingredient_value">%1$s (%2$s)</string>
+    <string name="cocktail_instructions">Instructions</string>
+    <string name="cocktail_not_found">Empty here</string>
+
+    <!-- Barshelf -->
+    <string name="barshelf">Barshelf</string>
+    <string name="barshelf_tab_saved">Saved</string>
+    <string name="barshelf_tab_history">History</string>
+    <string name="barshelf_tab_custom">Custom</string>
+    <string name="cocktail_bookmark_saved_on_value">Saved on %1$s</string>
+    <string name="cocktail_visit_visited_on_value">Visited on %1$s</string>
+
+    <!-- Shaker -->
+    <string name="shaker">Shaker</string>
+    <string name="shaker_new_tag">New Tag</string>
+    <string name="shaker_new_ingredient">New Ingredient</string>
+    <string name="shaker_image_placeholder">Select image</string>
+    <string name="shaker_tag_placeholder">Name</string>
+    <string name="shaker_ingredient_placeholder">Name</string>
+    <string name="shaker_measure_placeholder">Measure</string>
+    <string name="shaker_instructions_content">How to serve your cocktail?</string>
+    <string name="shaker_name_blank_violation">Name shouldn\'t be blank</string>
+    <string name="shaker_image_empty_violation">Image shouldn\'t be empty</string>
+</resources>
